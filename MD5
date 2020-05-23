@@ -1,7 +1,7 @@
-b06c9fd570d2079a1bee27015470e2b5 *DESCRIPTION
+ce1c65530ec4f8a568f2c182d0316d19 *DESCRIPTION
 c91fa25d9105db984f31fab34343ff93 *LICENSE
 0620c42e97a4308519e8d96769d1e056 *NAMESPACE
-83cdd7d606b33baa2a2ff34cf5d3a41c *NEWS.md
+c6d24df341208eb5f25fcb830d0f8c2b *NEWS.md
 c93c3025a3b6bd4d6f89d15b289588f5 *R/data-jgd2011_bbox.R
 b5510a38880588e7371d732bebda9fe8 *R/data-utils.R
 60ea8ae8a061ee5dac7ae267c35a509d *R/geom_jpsegment.R
@@ -10,7 +10,7 @@ e5de9635b57f7c91b33ed687f4f7d56d *R/move_jpn_rs.R
 fc193434bd8fc2eb57a33672f0beccf2 *R/st_nearest_jgd2011.R
 dc952a48d134f5e79fb73f589cbaa16e *R/sysdata.rda
 ebacab8fb7f6f4c3c8c11bd07e1112f9 *R/utils-pipe.R
-7c4b66551385291d48304b250fcc062f *README.md
+87a26b1ae716bdb1f15836755da69142 *README.md
 1a6f6bc22d29e95cb4f54070e7ce9273 *data/extreme_points.rda
 512faa143cc34df81d23b8ae4721590b *data/gsi_tiles.rda
 345eded001e6a787a8188f1b8464623e *data/jgd2011_bbox.rda
